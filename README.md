@@ -1,8 +1,8 @@
-# Цифровая Обработка Сигналов
-# Лабораторная работа №1: Генерация аналогового сигнала
+### Digital Signal Processing
+# Laboratory Work №1: Generation of Analog Signal
 
-### Цель работы
-Изучить приемы генерации аналогового сигнала с помощью встроенного цифро-аналогового преобразователя микроконтроллера STM32.
+### Purpose of the Work
+To study the methods of generating an analog signal using the built-in digital-to-analog converter of the STM32 microcontroller.
 
-### Примечания
-Для выполнения работы потребуется микроконтроллер STM32 и соответствующее программное обеспечение для его программирования. В отчете должны быть представлены схемы сигналов, графики и результаты выполнения программы.
+### Notes
+To complete the work, an STM32 microcontroller and the corresponding software for its programming are required. The report should include signal diagrams, graphs, and the results of the program execution.
